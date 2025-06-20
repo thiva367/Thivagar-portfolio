@@ -1,0 +1,26 @@
+bodY{
+	    margin:0;
+		background-color: #1a1a2e;
+        color: #cccccc;
+        font-family: sans-serif;
+		}
+	h1,h2{
+	    color:#ffffff;
+		font-family:sans-serif
+		}
+	
+		
+    header{
+		background-color: black;
+        color: gold;
+        position: fixed;
+		top: 0;
+		border-bottom:2px solid #d4af37;
+		width: -webkit-fill-available;
+		}
+	p#p{
+	    text-align: center;
+        font-size: initial;
+        margin: -60px 0 15px 41px;
+        padding: 0 0 0 300px;
+		}
